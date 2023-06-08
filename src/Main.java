@@ -35,6 +35,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("ВИКОНАВ солдат Загута К.А");
         System.out.println("Ласкаво просимо до тестування!");
         System.out.println("Введіть 'q' у будь-який момент для завершення.");
 
